@@ -6,3 +6,5 @@ The ALU and the Control Unit interact in the CPU by means of buses, flags, and r
 * CPU : Calculates information.
 * Input: Converts physical input to binary information.
 * Output: Converts info to physical output.
+# Hardware:IEEE Ethically Alligned Designs
+* An organization for those in the techinical computer fields.
